@@ -74,12 +74,12 @@
 
 5.  **運行程式碼**
 
-      * 執行 `main.py` 檔案：
+      * 執行 `shuffle.py` 檔案：
 
     <!-- end list -->
 
     ```bash
-    python main.py
+    python shuffle.py
     ```
 
       * 當程式運行到登錄步驟時，會提示您手動在彈出的瀏覽器視窗中完成 Google 登錄，登錄完成後在終端機中按 `Enter` 繼續。
